@@ -6,5 +6,6 @@
 * Using 4 different classification algorithms which is Logistic Regression, Gradient Boosting, XGboost Classifier, and Random Forest and compare these algorithms to find the best classification model for this dataset.
 # Dashboard
 * link dashboard: https://datastudio.google.com/reporting/3209b456-5cd8-4a7f-94d0-bb56579b9d7a
+![alt text](https://github.com/mdikas/Credit-Card-Fraudulent-Classification/blob/master/dashboard.PNG "Dashboard Report")
 
 
